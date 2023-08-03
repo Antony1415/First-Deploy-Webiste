@@ -1,0 +1,31 @@
+.artikel_title {
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 120%;
+    font-size: 2rem;
+    color: #333;
+}
+
+.artikel_content_1 {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.artikel_content_2 {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.ul {
+    list-style-type: disc;
+    margin-left: 15px;
+    display: grid;
+    row-gap: 15px;
+}
+
+.ul li div{
+    display: grid;
+    row-gap: 15px;
+}
